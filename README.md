@@ -1,4 +1,5 @@
 # clothbound-classics
+Complete list of clothbound classics ordered by print date (excluding India Special Editions, reprint of Crime & Punishment, and reprint of Madame Bovary); last updated April 2023, source: [https://beautifulbooks.info/penguin-clothbound-classics](https://beautifulbooks.info/penguin-clothbound-classics)
 
 ## 2008
 - [ ] Pride and Prejudice, _Jane Austen (2008)_
