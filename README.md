@@ -10,14 +10,14 @@ Complete list of clothbound classics ordered by print date (excluding India Spec
 - [ ] Cranford _Elizabeth Gaskell (2008)_
 - [ ] Tess of the D’Urbervilles, _Thomas Hardy (2008)_
 - [ ] Crime and Punishment, _Fyodor Dostoevsky (2008)_
-- [ ] Jane Eyre, _Charlotte Brontë (2008)_
+- [x] Jane Eyre, _Charlotte Brontë (2008)_
 - [ ] The Picture of Dorian Grey, _Oscar Wilde (2008)_
 
 ## 2009
 - [ ] Little Women, _Louisa May Alcott (2009)_
 - [ ] The Woman in White, _Wilkie Collins (2009)_
 - [ ] The Hound of the Baskervilles, _Arthur Conan Doyle (2009)_
-- [ ] The Odyssey, _Homer (2009)_
+- [x] The Odyssey, _Homer (2009)_
 - [ ] Alice’s Adventures in Wonderland and Through the Looking Glass, _Lewis Carrol (2009)_
 - [ ] Treasure Island, _Robert Louis Stevenson (2009)_
 - [ ] Emma, _Jane Austen (2009)_
@@ -28,7 +28,7 @@ Complete list of clothbound classics ordered by print date (excluding India Spec
 ## 2010
 - [ ] A Christmas Carol and other Christmas Writings, _Charles Dickens (2010)_
 - [ ] Inferno: The Divine Comedy I, _Dante (2010)_
-- [ ] Gulliver’s Travels, _Jonathan Swift(2010)_
+- [x] Gulliver’s Travels, _Jonathan Swift(2010)_
 
 ## 2011
 - [ ] Dracula, _Bram Stoker (2011)_
@@ -47,13 +47,13 @@ Complete list of clothbound classics ordered by print date (excluding India Spec
 
 ## 2013
 - [ ] Vanity Fair, _William Makepeace Thackery (2013)_
-- [ ] Moby-Dick, _Herman Melville (2013)_
+- [x] Moby-Dick, _Herman Melville (2013)_
 - [ ] Far From the Madding Crowd, _Thomas Hardy (2013)_
-- [ ] The Canterbury Tales, _Geoffrey Chaucer (2013)_
+- [x] The Canterbury Tales, _Geoffrey Chaucer (2013)_
 - [ ] Frankenstein, _Mary Shelley (2013)_
 - [ ] The Adventures of Huckleberry Finn, _Mark Twain (2013)_
 - [ ] Robinson Crusoe, _Daniel Defoe (2013)_
-- [ ] Anna Karenina, _Leo Tolstoy (2013)_
+- [x] Anna Karenina, _Leo Tolstoy (2013)_
 
 ## 2014
 - [ ] Metamorphoses, _Ovid (2014)_
@@ -83,14 +83,14 @@ Complete list of clothbound classics ordered by print date (excluding India Spec
 - [ ] Remembrance of Things Past: Volume 3, _Marcel Proust (2016)_
 
 ## 2017
-- [ ] Twenty Thousand Leagues Under the Sea, _Jules Verne (2017)_
+- [x] Twenty Thousand Leagues Under the Sea, _Jules Verne (2017)_
 
 ## 2018
-- [ ] Don Quixote, _Miguel Cervantes (2018)_
+- [x] Don Quixote, _Miguel Cervantes (2018)_
 - [ ] The Ring of the Nibelung, _Richard Wagner (2018)_
 - [ ] The Mayor of Casterbridge, _Thomas Hardy (2018)_
 - [ ] The Adventures of Sherlock Holmes, _Arthur Conan Doyle (2018)_
-- [ ] The War of the Worlds, _H. G. Wells (2018)_
+- [x] The War of the Worlds, _H. G. Wells (2018)_
 
 ## 2019
 - [ ] Jude the Obscure, _Thomas Hardy (2019)_
