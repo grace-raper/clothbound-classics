@@ -2,14 +2,14 @@
 Complete list of clothbound classics ordered by print date (excluding India Special Editions, reprint of Crime & Punishment, and reprint of Madame Bovary); last updated April 2023, source: [https://beautifulbooks.info/penguin-clothbound-classics](https://beautifulbooks.info/penguin-clothbound-classics)
 
 ## 2008
-- [ ] **Pride and Prejudice, _Jane Austen (2008)_**
-- [ ] **Sense and Sensibility, _Jane Austen (2008)_**
-- [ ] Great Expectations, _Charles Dickens (2008)_
+- [x] **Pride and Prejudice, _Jane Austen (2008)_**
+- [x] **Sense and Sensibility, _Jane Austen (2008)_**
+- [ ] **Great Expectations, _Charles Dickens (2008)_**
 - [ ] Madame Bovary, _Gustave Flaubert (2008)_
-- [ ] **Wuthering Heights, _Emily Brontë (2008)_**
+- [x] **Wuthering Heights, _Emily Brontë (2008)_**
 - [ ] Cranford _Elizabeth Gaskell (2008)_
 - [ ] Tess of the D’Urbervilles, _Thomas Hardy (2008)_
-- [ ] Crime and Punishment, _Fyodor Dostoevsky (2008)_
+- [ ] **Crime and Punishment, _Fyodor Dostoevsky (2008)_**
 - [x] **Jane Eyre, _Charlotte Brontë (2008)_**
 - [ ] The Picture of Dorian Grey, _Oscar Wilde (2008)_
 
@@ -20,7 +20,7 @@ Complete list of clothbound classics ordered by print date (excluding India Spec
 - [x] The Odyssey, _Homer (2009)_
 - [ ] Alice’s Adventures in Wonderland and Through the Looking Glass, _Lewis Carrol (2009)_
 - [ ] Treasure Island, _Robert Louis Stevenson (2009)_
-- [ ] **Emma, _Jane Austen (2009)_**
+- [x] **Emma, _Jane Austen (2009)_**
 - [ ] Lady Chatterley’s Lover, _D. H. Lawrence (2009)_
 - [ ] Oliver Twist, _Charles Dickens (2009)_
 - [ ] The Sonnets and A Lover’s Complaint, _William Shakespeare (2009)_
@@ -33,12 +33,12 @@ Complete list of clothbound classics ordered by print date (excluding India Spec
 ## 2011
 - [ ] Dracula, _Bram Stoker (2011)_
 - [ ] A Tale of Two Cities, _Charles Dickens (2011)_
-- [ ] Middlemarch, _George Elliot (2011)_
+- [x] **Middlemarch, _George Elliot (2011)_**
 - [ ] Hard Times, _Charles Dickens (2011)_
 - [ ] Bleak House, _Charles Dickens (2011)_
-- [ ] Mansfield Park, _Jane Austen (2011)_
-- [ ] **Northanger Abbey, _Jane Austen (2011)_**
-- [ ] **Persuasion, _Jane Austen (2011)_**
+- [x] Mansfield Park, _Jane Austen (2011)_
+- [x] **Northanger Abbey, _Jane Austen (2011)_**
+- [x] **Persuasion, _Jane Austen (2011)_**
 
 ## 2012 
 - [ ] Jabberwocky and Other Nonsense, _Lewis Carroll (2012)_
@@ -46,7 +46,7 @@ Complete list of clothbound classics ordered by print date (excluding India Spec
 - [ ] The Count of Monte Cristo, _Alexandre Dumas (2012)_
 
 ## 2013
-- [ ] Vanity Fair, _William Makepeace Thackery (2013)_
+- [x] **Vanity Fair, _William Makepeace Thackery (2013)_**
 - [x] Moby-Dick, _Herman Melville (2013)_
 - [ ] Far From the Madding Crowd, _Thomas Hardy (2013)_
 - [x] The Canterbury Tales, _Geoffrey Chaucer (2013)_
@@ -69,11 +69,11 @@ Complete list of clothbound classics ordered by print date (excluding India Spec
 - [ ] The Travels, _Marco Polo (2015)_
 
 ## 2016
-- [ ] War and Peace, _Leo Tolstoy (2016)_
-- [ ] The Tenant of Wildfell Hall, _Anne Bronte (2016)_
-- [ ] Villette, _Charlotte Bronte (2016)_
+- [x] **War and Peace, _Leo Tolstoy (2016)_**
+- [x] **The Tenant of Wildfell Hall, _Anne Bronte (2016)_**
+- [x] **Villette, _Charlotte Bronte (2016)_**
 - [ ] Naked Lunch, _William D Burroughs (2016)_
-- [ ] Wide Sargasso Sea, _Jean Rhys (2016)_
+- [ ] **Wide Sargasso Sea, _Jean Rhys (2016)_**
 - [ ] Orlando, _Virginia Woolf (2016)_
 - [ ] A Confederacy of Dunces, _John Kennedy Toole (2016)_
 - [ ] The Day of the Triffids, _John Wyndham (2016)_
@@ -105,7 +105,7 @@ Complete list of clothbound classics ordered by print date (excluding India Spec
 - [ ] **Nineteen Eighty-Four, _George Orwell (2021)_**
 - [ ] Animal Farm, _George Orwell (2021)_
 - [ ] Monkey King, _Wu Cheng’en (2021)_
-- [ ] The Lonely Londoners, _Sam Selvon (2021)_
+- [x] The Lonely Londoners, _Sam Selvon (2021)_
 - [ ] The Little Prince, _Antoine de Saint-Exupéry (2021)_
 - [ ] The Aeneid, _Virgil (2021)_
 - [ ] Around the World in Eighty Days, _Jules Verne (2021)_
