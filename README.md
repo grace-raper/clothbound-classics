@@ -1,5 +1,5 @@
 # clothbound-classics
-Complete list of clothbound classics ordered by print date (excluding India Special Editions, reprint of Crime & Punishment, and reprint of Madame Bovary); last updated April 2023, source: [https://beautifulbooks.info/penguin-clothbound-classics](https://beautifulbooks.info/penguin-clothbound-classics)
+Complete list of clothbound classics ordered by print date (excluding India Special Editions, reprint of Crime & Punishment, reprint of Madame Bovary, and reprint of Remembrance of Things Past series); last updated July 2025, source: [https://beautifulbooks.info/penguin-clothbound-classics](https://beautifulbooks.info/penguin-clothbound-classics)
 
 ## 2008
 - [ ] Pride and Prejudice, _Jane Austen (2008)_
@@ -122,3 +122,22 @@ Complete list of clothbound classics ordered by print date (excluding India Spec
 - [ ] The Master and the Margarita, _Mikhail Bulgakov (2023)_
 - [ ] The Strange Case of Dr Jekyll and Mr Hyde, _Robert Louis Stevenson (2023)_
 - [ ] Lolita, _Vladimir Nabokov (2023)_
+
+## 2024
+- [ ] The Brothers Karamazov, _Fyodir Dostoyevsky (2024)_ 
+- [ ] Pnin, _Vladimir Nabokov (2024)_
+- [ ] Tinker Tailor Solider Spy, _John le Carré (2024)_
+- [ ] Heart of Darkness, _Joseph Conrad (2024)_
+- [ ] Giovanni’s Room by _James Baldwin (2024)_
+- [ ] The Haunting of Hill House, _Shirley Jackson (2024)_
+
+## 2025
+- [ ] My Brilliant Career, _Miles Franklin (2025)_
+- [ ] The Phantom of the Opera, _Gaston Leroux (2025)_
+- [ ] Four Tragedies, _William Shakespeare (2025)_
+- [ ] Dubliners, _James Joyce (2025)_
+- [ ] The Fall of the House of Usher and Other Writings, _Edgar Allan Poe (2025)_
+- [ ] My Family and Other Animals, _Gerald Durrell (2025)_
+- [ ] The Idiot, _Fyodor Dostoyevsky (2025)_
+- [ ] The Spy Who Came Out from the Coled, _John le Carré (2025)_
+- [ ] Sanshiro, _Natsume Sōseki (2025)_
